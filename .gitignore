@@ -8,7 +8,7 @@ _pycache_/
 .env
 
 # SQLite DB (large, private, already generated)
-#knowledge_base.db
+knowledge_base.db
 
 # Scraped data (optional)
 downloaded_threads/
@@ -20,4 +20,4 @@ auth.json
 # OS files
 .DS_Store
 Thumbs.db
-#*.db
+
